@@ -1,0 +1,76 @@
+/* ==========================================================================
+   AHMEDABAD EATS — DESIGN TOKENS (Chromic Glass)
+   PRD §6.2 Color Tokens + §6.3 Typography
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=DM+Sans:ital,opsz,wght@0,9..40,300..700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  /* Chromatic gradient ramp */
+  --chroma-1: #FF6B35;   /* saffron orange */
+  --chroma-2: #E8472A;   /* deep terracotta */
+  --chroma-3: #C94A8C;   /* chromatic magenta */
+  --chroma-4: #7B4FD8;   /* deep violet */
+  --chroma-5: #3B82F6;   /* electric blue */
+
+  /* Dark mode surfaces (defaults) */
+  --surface-0: #0A0A0F;
+  --surface-1: #111118;
+  --surface-2: #1A1A24;
+  --surface-3: #22222E;
+
+  /* Dark mode text */
+  --text-primary:   #F4F2EE;
+  --text-secondary: #9B98A8;
+  --text-muted:     #5E5C6E;
+  --text-accent:    #FF6B35;
+
+  /* Glass surface */
+  --glass-bg:        rgba(255,255,255,0.04);
+  --glass-border:    rgba(255,255,255,0.12);
+  --glass-highlight: rgba(255,255,255,0.18);
+  --glass-shadow:    rgba(0,0,0,0.35);
+
+  /* Motion */
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-smooth: cubic-bezier(0.40, 0.00, 0.20, 1);
+  --dur-fast:   150ms;
+  --dur-normal: 280ms;
+  --dur-slow:   500ms;
+
+  /* Spacing */
+  --space-1:4px; --space-2:8px; --space-3:12px; --space-4:16px;
+  --space-5:24px; --space-6:32px; --space-7:48px; --space-8:64px;
+
+  /* Radii */
+  --radius-sm:4px; --radius-md:14px; --radius-lg:20px;
+  --radius-xl:28px; --radius-full:9999px;
+
+  /* Blur */
+  --blur-sm:blur(8px); --blur-md:blur(16px); --blur-lg:blur(32px);
+
+  /* Typography */
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body:    'DM Sans', system-ui, sans-serif;
+  --font-mono:    'JetBrains Mono', 'Fira Code', monospace;
+  --text-xs:   11px; --text-sm: 13px; --text-base: 15px;
+  --text-lg:   17px; --text-xl: 20px; --text-2xl:  26px;
+  --text-3xl:  34px; --text-4xl: 48px;
+  --text-hero: clamp(56px, 8vw, 96px);
+}
+
+/* Light theme overrides */
+[data-theme='light'] {
+  --surface-0: #F7F5F0;
+  --surface-1: #FFFFFF;
+  --surface-2: #F0EDE8;
+  --surface-3: #E8E4DD;
+  --text-primary:   #1A1818;
+  --text-secondary: #5A5560;
+  --text-muted:     #8A8590;
+  --text-accent:    #E8472A;
+  --glass-bg:     rgba(255,255,255,0.65);
+  --glass-border: rgba(0,0,0,0.08);
+  --glass-highlight: rgba(255,255,255,0.8);
+  --glass-shadow: rgba(0,0,0,0.08);
+}

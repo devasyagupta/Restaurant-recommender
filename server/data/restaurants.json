@@ -1,0 +1,6767 @@
+[
+  {
+    "id": "rest_001",
+    "name": "Woodside",
+    "area": "CG Road",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10.8,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/2.jpg",
+    "tags": [
+      "steaks",
+      "soups",
+      "grills"
+    ],
+    "phone": "+91 8911110968",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_002",
+    "name": "Darbar-e-Khas",
+    "area": "CG Road",
+    "cuisine": [
+      "Mughlai",
+      "Rajasthani"
+    ],
+    "rating": 3.9,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 4.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/3.jpg",
+    "tags": [
+      "biryani",
+      "kebabs",
+      "korma"
+    ],
+    "phone": "+91 9858745069",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_003",
+    "name": "Mughal Darbar",
+    "area": "CG Road",
+    "cuisine": [
+      "Mughlai"
+    ],
+    "rating": 3.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 0.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/4.jpg",
+    "tags": [
+      "nihari",
+      "korma",
+      "biryani"
+    ],
+    "phone": "+91 8878241616",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_004",
+    "name": "Tuscany",
+    "area": "CG Road",
+    "cuisine": [
+      "Italian",
+      "Rajasthani"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 3.3,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/5.jpg",
+    "tags": [
+      "pizza",
+      "bruschetta",
+      "risotto"
+    ],
+    "phone": "+91 8343278978",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_005",
+    "name": "Gola Soda",
+    "area": "CG Road",
+    "cuisine": [
+      "Street Food",
+      "Continental"
+    ],
+    "rating": 4.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.3,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/6.jpg",
+    "tags": [
+      "chaat",
+      "vada pav",
+      "pav bhaji"
+    ],
+    "phone": "+91 7351889931",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_006",
+    "name": "Coastal Bite",
+    "area": "CG Road",
+    "cuisine": [
+      "Seafood",
+      "Gujarati"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8.9,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/1.jpg",
+    "tags": [
+      "prawns",
+      "fish",
+      "surmai"
+    ],
+    "phone": "+91 9899547355",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_007",
+    "name": "Sagar Delights",
+    "area": "CG Road",
+    "cuisine": [
+      "South Indian",
+      "Continental"
+    ],
+    "rating": 4.1,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 11.6,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/2.jpg",
+    "tags": [
+      "idli",
+      "sambhar",
+      "filter coffee"
+    ],
+    "phone": "+91 7009146541",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_008",
+    "name": "Saanvi Bhojanalaya",
+    "area": "CG Road",
+    "cuisine": [
+      "Gujarati",
+      "Mughlai"
+    ],
+    "rating": 4.1,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 10.6,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/3.jpg",
+    "tags": [
+      "traditional",
+      "vegetarian",
+      "homestyle"
+    ],
+    "phone": "+91 7047659809",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_009",
+    "name": "Nacho Libre",
+    "area": "CG Road",
+    "cuisine": [
+      "Mexican",
+      "Cafe"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 4.4,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/4.jpg",
+    "tags": [
+      "burritos",
+      "nachos",
+      "tacos"
+    ],
+    "phone": "+91 9158544326",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_010",
+    "name": "Crust Culture",
+    "area": "CG Road",
+    "cuisine": [
+      "Pizza"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 12.7,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/5.jpg",
+    "tags": [
+      "pepperoni",
+      "margherita",
+      "farmhouse"
+    ],
+    "phone": "+91 8483987298",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_011",
+    "name": "Sankalp",
+    "area": "CG Road",
+    "cuisine": [
+      "Gujarati"
+    ],
+    "rating": 3.8,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 7.3,
+    "veg_nonveg": "veg",
+    "opening_time": "10:30",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/6.jpg",
+    "tags": [
+      "thali",
+      "traditional",
+      "homestyle"
+    ],
+    "phone": "+91 9378107307",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_012",
+    "name": "Royal Punjab",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Punjabi"
+    ],
+    "rating": 4.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 12.6,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/1.jpg",
+    "tags": [
+      "tandoori",
+      "lassi",
+      "butter chicken"
+    ],
+    "phone": "+91 9460550347",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_013",
+    "name": "Honest",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Gujarati",
+      "Italian"
+    ],
+    "rating": 3.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 12.6,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/2.jpg",
+    "tags": [
+      "vegetarian",
+      "traditional",
+      "thali"
+    ],
+    "phone": "+91 9595321603",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_014",
+    "name": "Balle Balle",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Punjabi",
+      "Seafood"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/3.jpg",
+    "tags": [
+      "naan",
+      "tandoori",
+      "butter chicken"
+    ],
+    "phone": "+91 9272898781",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_015",
+    "name": "Kebab Grill",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Mughlai",
+      "Bakery"
+    ],
+    "rating": 3.4,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 10.5,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/4.jpg",
+    "tags": [
+      "nihari",
+      "korma",
+      "kebabs"
+    ],
+    "phone": "+91 7952726081",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_016",
+    "name": "Vada Pav Junction",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Street Food"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10.7,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/5.jpg",
+    "tags": [
+      "dabeli",
+      "chaat",
+      "pav bhaji"
+    ],
+    "phone": "+91 8167571550",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_017",
+    "name": "Tuscany Navrangpura",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Italian",
+      "Gujarati"
+    ],
+    "rating": 4.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.6,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/6.jpg",
+    "tags": [
+      "pasta",
+      "risotto",
+      "pizza"
+    ],
+    "phone": "+91 7595426155",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_018",
+    "name": "Woodside Navrangpura",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Continental",
+      "Gujarati"
+    ],
+    "rating": 3.9,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 13.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/1.jpg",
+    "tags": [
+      "salads",
+      "soups",
+      "grills"
+    ],
+    "phone": "+91 7172192178",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_019",
+    "name": "Prawn Star",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/2.jpg",
+    "tags": [
+      "fish",
+      "surmai",
+      "prawns"
+    ],
+    "phone": "+91 8168859107",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_020",
+    "name": "Coastal Bite Navrangpura",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 10.1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/3.jpg",
+    "tags": [
+      "crab",
+      "prawns",
+      "surmai"
+    ],
+    "phone": "+91 8545985971",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_021",
+    "name": "Orient Express",
+    "area": "Navrangpura",
+    "cuisine": [
+      "Chinese",
+      "Seafood"
+    ],
+    "rating": 4.1,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 10.6,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/4.jpg",
+    "tags": [
+      "fried rice",
+      "manchurian",
+      "noodles"
+    ],
+    "phone": "+91 8456513120",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_022",
+    "name": "Pizza Express",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Pizza",
+      "Cafe"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 13.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/5.jpg",
+    "tags": [
+      "farmhouse",
+      "garlic bread",
+      "pepperoni"
+    ],
+    "phone": "+91 9192582724",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_023",
+    "name": "Balle Balle Ellisbridge",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Punjabi"
+    ],
+    "rating": 3.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13.7,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/6.jpg",
+    "tags": [
+      "lassi",
+      "tandoori",
+      "naan"
+    ],
+    "phone": "+91 8723420591",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_024",
+    "name": "Downtown",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Continental",
+      "Pizza"
+    ],
+    "rating": 4.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 8.5,
+    "veg_nonveg": "nonveg",
+    "opening_time": "11:00",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/1.jpg",
+    "tags": [
+      "grills",
+      "steaks",
+      "salads"
+    ],
+    "phone": "+91 7256886727",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_025",
+    "name": "Metro Bites",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 11.8,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/2.jpg",
+    "tags": [
+      "soups",
+      "salads",
+      "grills"
+    ],
+    "phone": "+91 9881078668",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_026",
+    "name": "Burrito Junction",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Mexican",
+      "Mughlai"
+    ],
+    "rating": 4.4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6.6,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/3.jpg",
+    "tags": [
+      "tacos",
+      "nachos",
+      "quesadilla"
+    ],
+    "phone": "+91 7145619824",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_027",
+    "name": "Marwar Spice",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Rajasthani",
+      "Bakery"
+    ],
+    "rating": 3.4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8.1,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/4.jpg",
+    "tags": [
+      "churma",
+      "gatte",
+      "dal baati"
+    ],
+    "phone": "+91 8385751897",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_028",
+    "name": "Mocha",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Cafe",
+      "Street Food"
+    ],
+    "rating": 3.8,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 8.8,
+    "veg_nonveg": "both",
+    "opening_time": "09:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/5.jpg",
+    "tags": [
+      "coffee",
+      "smoothies",
+      "sandwiches"
+    ],
+    "phone": "+91 9640958702",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_029",
+    "name": "Basilico",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Italian"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 7.7,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/6.jpg",
+    "tags": [
+      "pizza",
+      "bruschetta",
+      "pasta"
+    ],
+    "phone": "+91 9666086851",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_030",
+    "name": "Catch of Day",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8.9,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/1.jpg",
+    "tags": [
+      "fish",
+      "prawns",
+      "crab"
+    ],
+    "phone": "+91 7538299331",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_031",
+    "name": "Szechwan House",
+    "area": "Ellisbridge",
+    "cuisine": [
+      "Chinese"
+    ],
+    "rating": 4.6,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 14.6,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/2.jpg",
+    "tags": [
+      "manchurian",
+      "momos",
+      "noodles"
+    ],
+    "phone": "+91 9722504834",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_032",
+    "name": "Cheesy Crust",
+    "area": "Paldi",
+    "cuisine": [
+      "Pizza",
+      "Rajasthani"
+    ],
+    "rating": 3.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/3.jpg",
+    "tags": [
+      "farmhouse",
+      "margherita",
+      "garlic bread"
+    ],
+    "phone": "+91 9878368994",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_033",
+    "name": "Nandu Mess",
+    "area": "Paldi",
+    "cuisine": [
+      "South Indian",
+      "Italian"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10.1,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/4.jpg",
+    "tags": [
+      "filter coffee",
+      "dosa",
+      "idli"
+    ],
+    "phone": "+91 9913627118",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_034",
+    "name": "Fiesta",
+    "area": "Paldi",
+    "cuisine": [
+      "Mexican"
+    ],
+    "rating": 4.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 9.2,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/5.jpg",
+    "tags": [
+      "burritos",
+      "nachos",
+      "tacos"
+    ],
+    "phone": "+91 7794744069",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_035",
+    "name": "Nandu Mess Paldi",
+    "area": "Paldi",
+    "cuisine": [
+      "South Indian"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/6.jpg",
+    "tags": [
+      "filter coffee",
+      "idli",
+      "sambhar"
+    ],
+    "phone": "+91 7693169365",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_036",
+    "name": "Kulfi Center",
+    "area": "Paldi",
+    "cuisine": [
+      "Street Food",
+      "Gujarati"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 4.5,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/1.jpg",
+    "tags": [
+      "pav bhaji",
+      "vada pav",
+      "chaat"
+    ],
+    "phone": "+91 9426210582",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_037",
+    "name": "FoodieBox",
+    "area": "Paldi",
+    "cuisine": [
+      "Fast Food",
+      "Punjabi"
+    ],
+    "rating": 4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 1.1,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/2.jpg",
+    "tags": [
+      "shakes",
+      "burgers",
+      "wraps"
+    ],
+    "phone": "+91 9133951241",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_038",
+    "name": "Sweet Flour",
+    "area": "Paldi",
+    "cuisine": [
+      "Bakery"
+    ],
+    "rating": 3.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 7.2,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/bakery/3.jpg",
+    "tags": [
+      "cookies",
+      "bread",
+      "pastries"
+    ],
+    "phone": "+91 8219714731",
+    "short_description": "Freshly baked breads and decadent desserts daily"
+  },
+  {
+    "id": "rest_039",
+    "name": "Ming Palace",
+    "area": "Paldi",
+    "cuisine": [
+      "Chinese",
+      "Continental"
+    ],
+    "rating": 4.8,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 6.7,
+    "veg_nonveg": "veg",
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/4.jpg",
+    "tags": [
+      "fried rice",
+      "momos",
+      "manchurian"
+    ],
+    "phone": "+91 9104491477",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_040",
+    "name": "Metro Bites Paldi",
+    "area": "Paldi",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 3.6,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 5.2,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/5.jpg",
+    "tags": [
+      "salads",
+      "grills",
+      "steaks"
+    ],
+    "phone": "+91 9554956567",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_041",
+    "name": "Oven Fresh",
+    "area": "Paldi",
+    "cuisine": [
+      "Bakery",
+      "Fast Food"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6.6,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/bakery/6.jpg",
+    "tags": [
+      "pastries",
+      "bread",
+      "cookies"
+    ],
+    "phone": "+91 8707513468",
+    "short_description": "Freshly baked breads and decadent desserts daily"
+  },
+  {
+    "id": "rest_042",
+    "name": "Primavera",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Italian"
+    ],
+    "rating": 4.1,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 8.6,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/1.jpg",
+    "tags": [
+      "pasta",
+      "risotto",
+      "pizza"
+    ],
+    "phone": "+91 8062800497",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_043",
+    "name": "Coastal Bite Ambawadi",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 9.9,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/2.jpg",
+    "tags": [
+      "crab",
+      "prawns",
+      "fish"
+    ],
+    "phone": "+91 9487551822",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_044",
+    "name": "Prawn Star Ambawadi",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 8.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/3.jpg",
+    "tags": [
+      "prawns",
+      "surmai",
+      "crab"
+    ],
+    "phone": "+91 8899931945",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_045",
+    "name": "Bhagwati Dining",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Gujarati",
+      "Continental"
+    ],
+    "rating": 4.4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 12.9,
+    "veg_nonveg": "both",
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/4.jpg",
+    "tags": [
+      "thali",
+      "homestyle",
+      "traditional"
+    ],
+    "phone": "+91 8469828733",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_046",
+    "name": "Vaango",
+    "area": "Ambawadi",
+    "cuisine": [
+      "South Indian",
+      "Mughlai"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 12,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/5.jpg",
+    "tags": [
+      "idli",
+      "dosa",
+      "filter coffee"
+    ],
+    "phone": "+91 8183950558",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_047",
+    "name": "Tuscany Ambawadi",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Italian",
+      "South Indian"
+    ],
+    "rating": 4.1,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 2.9,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/6.jpg",
+    "tags": [
+      "pasta",
+      "risotto",
+      "pizza"
+    ],
+    "phone": "+91 7773779840",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_048",
+    "name": "Neptune",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/1.jpg",
+    "tags": [
+      "prawns",
+      "fish",
+      "crab"
+    ],
+    "phone": "+91 7180180469",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_049",
+    "name": "Chopstick",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Chinese",
+      "Fast Food"
+    ],
+    "rating": 4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.2,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/2.jpg",
+    "tags": [
+      "fried rice",
+      "manchurian",
+      "noodles"
+    ],
+    "phone": "+91 9630606564",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_050",
+    "name": "Downtown Ambawadi",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 11.6,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/3.jpg",
+    "tags": [
+      "steaks",
+      "salads",
+      "soups"
+    ],
+    "phone": "+91 9366626993",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_051",
+    "name": "Cloud Kitchen",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Continental",
+      "Chinese"
+    ],
+    "rating": 4.3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 10,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/4.jpg",
+    "tags": [
+      "steaks",
+      "salads",
+      "grills"
+    ],
+    "phone": "+91 7550227941",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_052",
+    "name": "El Toro",
+    "area": "Ambawadi",
+    "cuisine": [
+      "Mexican",
+      "South Indian"
+    ],
+    "rating": 4.3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 0.8,
+    "veg_nonveg": "veg",
+    "opening_time": "10:30",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/5.jpg",
+    "tags": [
+      "nachos",
+      "tacos",
+      "quesadilla"
+    ],
+    "phone": "+91 8190860336",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_053",
+    "name": "Rajputana",
+    "area": "Satellite",
+    "cuisine": [
+      "Rajasthani",
+      "Mexican"
+    ],
+    "rating": 4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 13.1,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/6.jpg",
+    "tags": [
+      "ker sangri",
+      "dal baati",
+      "churma"
+    ],
+    "phone": "+91 7450066036",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_054",
+    "name": "Padharo",
+    "area": "Satellite",
+    "cuisine": [
+      "Rajasthani",
+      "Mexican"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 14.3,
+    "veg_nonveg": "both",
+    "opening_time": "07:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/1.jpg",
+    "tags": [
+      "gatte",
+      "ker sangri",
+      "dal baati"
+    ],
+    "phone": "+91 9389181910",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_055",
+    "name": "Cafe Europa",
+    "area": "Satellite",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.9,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 9.2,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/2.jpg",
+    "tags": [
+      "soups",
+      "steaks",
+      "grills"
+    ],
+    "phone": "+91 9820022150",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_056",
+    "name": "Fish Land",
+    "area": "Satellite",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/3.jpg",
+    "tags": [
+      "prawns",
+      "fish",
+      "crab"
+    ],
+    "phone": "+91 8698108883",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_057",
+    "name": "Wok On Fire",
+    "area": "Satellite",
+    "cuisine": [
+      "Chinese",
+      "Italian"
+    ],
+    "rating": 3.4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.3,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/4.jpg",
+    "tags": [
+      "manchurian",
+      "momos",
+      "noodles"
+    ],
+    "phone": "+91 7143618534",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_058",
+    "name": "Bhajiya Gali",
+    "area": "Satellite",
+    "cuisine": [
+      "Street Food",
+      "Chinese"
+    ],
+    "rating": 3.9,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 6.5,
+    "veg_nonveg": "both",
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/5.jpg",
+    "tags": [
+      "dabeli",
+      "chaat",
+      "vada pav"
+    ],
+    "phone": "+91 7726787922",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_059",
+    "name": "Burger Lane",
+    "area": "Satellite",
+    "cuisine": [
+      "Fast Food",
+      "Italian"
+    ],
+    "rating": 4.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.1,
+    "veg_nonveg": "both",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/6.jpg",
+    "tags": [
+      "burgers",
+      "wraps",
+      "shakes"
+    ],
+    "phone": "+91 9575219860",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_060",
+    "name": "Samosa King",
+    "area": "Satellite",
+    "cuisine": [
+      "Street Food",
+      "Mughlai"
+    ],
+    "rating": 4.1,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 8.6,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/1.jpg",
+    "tags": [
+      "pav bhaji",
+      "dabeli",
+      "vada pav"
+    ],
+    "phone": "+91 7130053364",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_061",
+    "name": "Sea Shell",
+    "area": "Satellite",
+    "cuisine": [
+      "Seafood",
+      "Punjabi"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/2.jpg",
+    "tags": [
+      "prawns",
+      "surmai",
+      "fish"
+    ],
+    "phone": "+91 8293334364",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_062",
+    "name": "Royal Punjab Satellite",
+    "area": "Satellite",
+    "cuisine": [
+      "Punjabi"
+    ],
+    "rating": 4.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 7.1,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/3.jpg",
+    "tags": [
+      "butter chicken",
+      "tandoori",
+      "naan"
+    ],
+    "phone": "+91 7120112187",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_063",
+    "name": "Bean There",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Cafe",
+      "Mughlai"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 4.2,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/4.jpg",
+    "tags": [
+      "smoothies",
+      "sandwiches",
+      "coffee"
+    ],
+    "phone": "+91 8355217790",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_064",
+    "name": "Mughal Darbar Vastrapur",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Mughlai",
+      "Gujarati"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/5.jpg",
+    "tags": [
+      "kebabs",
+      "biryani",
+      "nihari"
+    ],
+    "phone": "+91 9818217517",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_065",
+    "name": "Basilico Vastrapur",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Italian"
+    ],
+    "rating": 4.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 1.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/6.jpg",
+    "tags": [
+      "risotto",
+      "pasta",
+      "bruschetta"
+    ],
+    "phone": "+91 8370494578",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_066",
+    "name": "GrabNGo",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Fast Food",
+      "South Indian"
+    ],
+    "rating": 3.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 9.5,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/1.jpg",
+    "tags": [
+      "burgers",
+      "fries",
+      "wraps"
+    ],
+    "phone": "+91 7107468380",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_067",
+    "name": "Quick Bites",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Fast Food",
+      "Punjabi"
+    ],
+    "rating": 4.8,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 10.1,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/2.jpg",
+    "tags": [
+      "burgers",
+      "wraps",
+      "fries"
+    ],
+    "phone": "+91 9433722971",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_068",
+    "name": "Crispy Corner",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Fast Food",
+      "Punjabi"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 8.7,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/3.jpg",
+    "tags": [
+      "fries",
+      "shakes",
+      "wraps"
+    ],
+    "phone": "+91 7732650556",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_069",
+    "name": "Shreeji Tiffins",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Gujarati",
+      "Italian"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.5,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/4.jpg",
+    "tags": [
+      "homestyle",
+      "thali",
+      "traditional"
+    ],
+    "phone": "+91 9162686622",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_070",
+    "name": "Kamatchi",
+    "area": "Vastrapur",
+    "cuisine": [
+      "South Indian",
+      "Rajasthani"
+    ],
+    "rating": 4.3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 10.6,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/5.jpg",
+    "tags": [
+      "filter coffee",
+      "dosa",
+      "sambhar"
+    ],
+    "phone": "+91 7983315537",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_071",
+    "name": "Mozzarella",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Pizza",
+      "Continental"
+    ],
+    "rating": 4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 7,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/6.jpg",
+    "tags": [
+      "margherita",
+      "pepperoni",
+      "garlic bread"
+    ],
+    "phone": "+91 7641518229",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_072",
+    "name": "Cloud Kitchen Vastrapur",
+    "area": "Vastrapur",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/1.jpg",
+    "tags": [
+      "salads",
+      "soups",
+      "steaks"
+    ],
+    "phone": "+91 8192893404",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_073",
+    "name": "Empire",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Mughlai"
+    ],
+    "rating": 4.7,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 10.6,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/2.jpg",
+    "tags": [
+      "kebabs",
+      "nihari",
+      "biryani"
+    ],
+    "phone": "+91 9483582292",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_074",
+    "name": "Sea Shell Bodakdev",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Seafood",
+      "Punjabi"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 6.7,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/3.jpg",
+    "tags": [
+      "prawns",
+      "fish",
+      "surmai"
+    ],
+    "phone": "+91 8770997938",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_075",
+    "name": "Dough&Co",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Pizza",
+      "Chinese"
+    ],
+    "rating": 4.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 7.3,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/4.jpg",
+    "tags": [
+      "margherita",
+      "farmhouse",
+      "garlic bread"
+    ],
+    "phone": "+91 9600293163",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_076",
+    "name": "Sweet Flour Bodakdev",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Bakery"
+    ],
+    "rating": 4.3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 8.7,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/bakery/5.jpg",
+    "tags": [
+      "pastries",
+      "bread",
+      "cakes"
+    ],
+    "phone": "+91 7933704055",
+    "short_description": "Freshly baked breads and decadent desserts daily"
+  },
+  {
+    "id": "rest_077",
+    "name": "Haveli",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Punjabi",
+      "Seafood"
+    ],
+    "rating": 4.5,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.8,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/6.jpg",
+    "tags": [
+      "lassi",
+      "naan",
+      "butter chicken"
+    ],
+    "phone": "+91 8840764867",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_078",
+    "name": "The Artisan",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Cafe"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 7.3,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/1.jpg",
+    "tags": [
+      "sandwiches",
+      "coffee",
+      "pastries"
+    ],
+    "phone": "+91 7476552545",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_079",
+    "name": "Downtown Bodakdev",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Continental",
+      "Mughlai"
+    ],
+    "rating": 4.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 1.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/2.jpg",
+    "tags": [
+      "soups",
+      "grills",
+      "steaks"
+    ],
+    "phone": "+91 7730998478",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_080",
+    "name": "Guacamole",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Mexican"
+    ],
+    "rating": 3.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/3.jpg",
+    "tags": [
+      "burritos",
+      "tacos",
+      "nachos"
+    ],
+    "phone": "+91 9117982724",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_081",
+    "name": "Mocha Bodakdev",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Cafe"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/4.jpg",
+    "tags": [
+      "coffee",
+      "smoothies",
+      "pastries"
+    ],
+    "phone": "+91 8575483944",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_082",
+    "name": "Cafe Terrace",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Cafe"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 9.6,
+    "veg_nonveg": "both",
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/5.jpg",
+    "tags": [
+      "pastries",
+      "sandwiches",
+      "smoothies"
+    ],
+    "phone": "+91 7573070204",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_083",
+    "name": "Quick Bites Bodakdev",
+    "area": "Bodakdev",
+    "cuisine": [
+      "Fast Food",
+      "Cafe"
+    ],
+    "rating": 4.5,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 7.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/6.jpg",
+    "tags": [
+      "shakes",
+      "wraps",
+      "burgers"
+    ],
+    "phone": "+91 8536134878",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_084",
+    "name": "Vaango SG",
+    "area": "SG Highway",
+    "cuisine": [
+      "South Indian",
+      "Continental"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 14.5,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/1.jpg",
+    "tags": [
+      "dosa",
+      "sambhar",
+      "filter coffee"
+    ],
+    "phone": "+91 8716353435",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_085",
+    "name": "Cafe Terrace SG",
+    "area": "SG Highway",
+    "cuisine": [
+      "Cafe",
+      "Mughlai"
+    ],
+    "rating": 3.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 11.2,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/2.jpg",
+    "tags": [
+      "pastries",
+      "smoothies",
+      "coffee"
+    ],
+    "phone": "+91 7074706595",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_086",
+    "name": "Wok On Fire SG",
+    "area": "SG Highway",
+    "cuisine": [
+      "Chinese",
+      "Mexican"
+    ],
+    "rating": 4.4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 6.6,
+    "veg_nonveg": "veg",
+    "opening_time": "10:30",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/3.jpg",
+    "tags": [
+      "momos",
+      "fried rice",
+      "noodles"
+    ],
+    "phone": "+91 7490587652",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_087",
+    "name": "Samosa King SG",
+    "area": "SG Highway",
+    "cuisine": [
+      "Street Food",
+      "Mughlai"
+    ],
+    "rating": 4.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 14.1,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/4.jpg",
+    "tags": [
+      "vada pav",
+      "dabeli",
+      "pav bhaji"
+    ],
+    "phone": "+91 7168491820",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_088",
+    "name": "Nacho Libre SG",
+    "area": "SG Highway",
+    "cuisine": [
+      "Mexican"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 10.1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/5.jpg",
+    "tags": [
+      "burritos",
+      "nachos",
+      "quesadilla"
+    ],
+    "phone": "+91 8913883654",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_089",
+    "name": "China Town",
+    "area": "SG Highway",
+    "cuisine": [
+      "Chinese",
+      "Cafe"
+    ],
+    "rating": 4.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.8,
+    "veg_nonveg": "veg",
+    "opening_time": "10:00",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/6.jpg",
+    "tags": [
+      "noodles",
+      "fried rice",
+      "manchurian"
+    ],
+    "phone": "+91 8931866469",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_090",
+    "name": "Crispy Corner SG",
+    "area": "SG Highway",
+    "cuisine": [
+      "Fast Food",
+      "Seafood"
+    ],
+    "rating": 3.6,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 10.5,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/1.jpg",
+    "tags": [
+      "wraps",
+      "shakes",
+      "burgers"
+    ],
+    "phone": "+91 8917252837",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_091",
+    "name": "Nandu Mess SG",
+    "area": "SG Highway",
+    "cuisine": [
+      "South Indian",
+      "Cafe"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 14.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/2.jpg",
+    "tags": [
+      "dosa",
+      "filter coffee",
+      "idli"
+    ],
+    "phone": "+91 7186664120",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_092",
+    "name": "Wok On Fire SG Highway",
+    "area": "SG Highway",
+    "cuisine": [
+      "Chinese",
+      "Mughlai"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10.1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/3.jpg",
+    "tags": [
+      "manchurian",
+      "noodles",
+      "fried rice"
+    ],
+    "phone": "+91 7612701471",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_093",
+    "name": "Roma Cafe",
+    "area": "SG Highway",
+    "cuisine": [
+      "Italian",
+      "Rajasthani"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.6,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/4.jpg",
+    "tags": [
+      "pizza",
+      "bruschetta",
+      "pasta"
+    ],
+    "phone": "+91 8346987398",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_094",
+    "name": "Nandu Mess Thaltej",
+    "area": "Thaltej",
+    "cuisine": [
+      "South Indian"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 13.5,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/5.jpg",
+    "tags": [
+      "dosa",
+      "filter coffee",
+      "idli"
+    ],
+    "phone": "+91 8165204834",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_095",
+    "name": "Prawn Star Thaltej",
+    "area": "Thaltej",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 2.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/6.jpg",
+    "tags": [
+      "prawns",
+      "surmai",
+      "fish"
+    ],
+    "phone": "+91 9678167871",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_096",
+    "name": "Kamatchi Thaltej",
+    "area": "Thaltej",
+    "cuisine": [
+      "South Indian",
+      "Mughlai"
+    ],
+    "rating": 3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 12.7,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/1.jpg",
+    "tags": [
+      "filter coffee",
+      "idli",
+      "sambhar"
+    ],
+    "phone": "+91 9672458390",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_097",
+    "name": "Pav Bhaji House",
+    "area": "Thaltej",
+    "cuisine": [
+      "Street Food",
+      "Mexican"
+    ],
+    "rating": 3.7,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 11.4,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/2.jpg",
+    "tags": [
+      "chaat",
+      "dabeli",
+      "vada pav"
+    ],
+    "phone": "+91 8074094977",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_098",
+    "name": "Dabeli King",
+    "area": "Thaltej",
+    "cuisine": [
+      "Street Food",
+      "Italian"
+    ],
+    "rating": 3.9,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 12.2,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/3.jpg",
+    "tags": [
+      "chaat",
+      "dabeli",
+      "pav bhaji"
+    ],
+    "phone": "+91 7104945656",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_099",
+    "name": "Mocha Thaltej",
+    "area": "Thaltej",
+    "cuisine": [
+      "Cafe"
+    ],
+    "rating": 4.5,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 2.4,
+    "veg_nonveg": "both",
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/4.jpg",
+    "tags": [
+      "coffee",
+      "smoothies",
+      "pastries"
+    ],
+    "phone": "+91 7861795116",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_100",
+    "name": "Sea Shell Thaltej",
+    "area": "Thaltej",
+    "cuisine": [
+      "Seafood",
+      "Gujarati"
+    ],
+    "rating": 4.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "11:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/5.jpg",
+    "tags": [
+      "prawns",
+      "crab",
+      "fish"
+    ],
+    "phone": "+91 8514084969",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_101",
+    "name": "Prawn Star #101",
+    "area": "Thaltej",
+    "cuisine": [
+      "Seafood",
+      "Bakery"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 7.8,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/6.jpg",
+    "tags": [
+      "surmai",
+      "prawns",
+      "crab"
+    ],
+    "phone": "+91 9354768599",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_102",
+    "name": "Mozzarella Thaltej",
+    "area": "Thaltej",
+    "cuisine": [
+      "Pizza",
+      "Cafe"
+    ],
+    "rating": 4.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 14.5,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/1.jpg",
+    "tags": [
+      "margherita",
+      "pepperoni",
+      "garlic bread"
+    ],
+    "phone": "+91 7289294728",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_103",
+    "name": "Rajasthani Rasoi",
+    "area": "Thaltej",
+    "cuisine": [
+      "Rajasthani"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.6,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/2.jpg",
+    "tags": [
+      "dal baati",
+      "gatte",
+      "ker sangri"
+    ],
+    "phone": "+91 7028095687",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_104",
+    "name": "Chaat Corner",
+    "area": "Thaltej",
+    "cuisine": [
+      "Street Food"
+    ],
+    "rating": 3.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 7.8,
+    "veg_nonveg": "both",
+    "opening_time": "09:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/3.jpg",
+    "tags": [
+      "dabeli",
+      "pav bhaji",
+      "vada pav"
+    ],
+    "phone": "+91 8141463659",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_105",
+    "name": "Punjab Grill",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Punjabi",
+      "Italian"
+    ],
+    "rating": 4.1,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 2.2,
+    "veg_nonveg": "veg",
+    "opening_time": "10:30",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/4.jpg",
+    "tags": [
+      "lassi",
+      "naan",
+      "butter chicken"
+    ],
+    "phone": "+91 7627674184",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_106",
+    "name": "Nandu Mess Prahlad",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "South Indian",
+      "Bakery"
+    ],
+    "rating": 3.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 10.2,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/5.jpg",
+    "tags": [
+      "filter coffee",
+      "sambhar",
+      "idli"
+    ],
+    "phone": "+91 7080798937",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_107",
+    "name": "El Toro Prahlad",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Mexican"
+    ],
+    "rating": 4.5,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 12.7,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/6.jpg",
+    "tags": [
+      "burritos",
+      "quesadilla",
+      "nachos"
+    ],
+    "phone": "+91 8089313835",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_108",
+    "name": "Rajputana Prahlad",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Rajasthani"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 10.1,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/1.jpg",
+    "tags": [
+      "dal baati",
+      "gatte",
+      "churma"
+    ],
+    "phone": "+91 8399121279",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_109",
+    "name": "Fish Land Prahlad",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6.1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/2.jpg",
+    "tags": [
+      "fish",
+      "prawns",
+      "surmai"
+    ],
+    "phone": "+91 7371173946",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_110",
+    "name": "Orient Express Prahlad",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Chinese",
+      "Gujarati"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 12.2,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/3.jpg",
+    "tags": [
+      "momos",
+      "fried rice",
+      "noodles"
+    ],
+    "phone": "+91 8492048094",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_111",
+    "name": "El Toro Prahlad Nagar",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Mexican"
+    ],
+    "rating": 4.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8.1,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/4.jpg",
+    "tags": [
+      "nachos",
+      "burritos",
+      "tacos"
+    ],
+    "phone": "+91 7553673642",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_112",
+    "name": "Fork & Knife",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Continental",
+      "Gujarati"
+    ],
+    "rating": 4.5,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 14.3,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/5.jpg",
+    "tags": [
+      "salads",
+      "grills",
+      "steaks"
+    ],
+    "phone": "+91 8357174022",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_113",
+    "name": "Speed Eats",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Fast Food"
+    ],
+    "rating": 3.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 2.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/6.jpg",
+    "tags": [
+      "wraps",
+      "fries",
+      "burgers"
+    ],
+    "phone": "+91 7317819310",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_114",
+    "name": "Chipotle Corner",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Mexican",
+      "South Indian"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 8.7,
+    "veg_nonveg": "both",
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/1.jpg",
+    "tags": [
+      "nachos",
+      "burritos",
+      "tacos"
+    ],
+    "phone": "+91 9138420981",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_115",
+    "name": "Rajasthani Rasoi Prahlad",
+    "area": "Prahlad Nagar",
+    "cuisine": [
+      "Rajasthani",
+      "Mexican"
+    ],
+    "rating": 3.1,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 7,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/2.jpg",
+    "tags": [
+      "ker sangri",
+      "dal baati",
+      "gatte"
+    ],
+    "phone": "+91 8861553132",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_116",
+    "name": "Red Lantern",
+    "area": "Maninagar",
+    "cuisine": [
+      "Chinese"
+    ],
+    "rating": 4.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 15,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/3.jpg",
+    "tags": [
+      "manchurian",
+      "momos",
+      "noodles"
+    ],
+    "phone": "+91 8029808336",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_117",
+    "name": "Biryani Blues",
+    "area": "Maninagar",
+    "cuisine": [
+      "Mughlai",
+      "Pizza"
+    ],
+    "rating": 4.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 0.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/4.jpg",
+    "tags": [
+      "korma",
+      "nihari",
+      "biryani"
+    ],
+    "phone": "+91 7019354766",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_118",
+    "name": "Blue Whale",
+    "area": "Maninagar",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 4.2,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/5.jpg",
+    "tags": [
+      "surmai",
+      "fish",
+      "prawns"
+    ],
+    "phone": "+91 9440722466",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_119",
+    "name": "Vaango Maninagar",
+    "area": "Maninagar",
+    "cuisine": [
+      "South Indian",
+      "Street Food"
+    ],
+    "rating": 4.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 8,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/6.jpg",
+    "tags": [
+      "dosa",
+      "filter coffee",
+      "idli"
+    ],
+    "phone": "+91 9912393438",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_120",
+    "name": "Dabeli King Maninagar",
+    "area": "Maninagar",
+    "cuisine": [
+      "Street Food",
+      "Italian"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 12.2,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/1.jpg",
+    "tags": [
+      "dabeli",
+      "pav bhaji",
+      "vada pav"
+    ],
+    "phone": "+91 9778286480",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_121",
+    "name": "Woodfire Pizza",
+    "area": "Maninagar",
+    "cuisine": [
+      "Pizza",
+      "Seafood"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10.7,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/2.jpg",
+    "tags": [
+      "farmhouse",
+      "garlic bread",
+      "pepperoni"
+    ],
+    "phone": "+91 9998585129",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_122",
+    "name": "Bake My Day",
+    "area": "Maninagar",
+    "cuisine": [
+      "Bakery",
+      "Pizza"
+    ],
+    "rating": 3.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.2,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/bakery/3.jpg",
+    "tags": [
+      "cakes",
+      "pastries",
+      "cookies"
+    ],
+    "phone": "+91 9361671808",
+    "short_description": "Freshly baked breads and decadent desserts daily"
+  },
+  {
+    "id": "rest_123",
+    "name": "GrabNGo Maninagar",
+    "area": "Maninagar",
+    "cuisine": [
+      "Fast Food",
+      "South Indian"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/4.jpg",
+    "tags": [
+      "burgers",
+      "shakes",
+      "wraps"
+    ],
+    "phone": "+91 7975805621",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_124",
+    "name": "Bikaneri",
+    "area": "Maninagar",
+    "cuisine": [
+      "Rajasthani"
+    ],
+    "rating": 4.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 12.8,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/5.jpg",
+    "tags": [
+      "ker sangri",
+      "gatte",
+      "churma"
+    ],
+    "phone": "+91 9858125413",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_125",
+    "name": "Mocha Maninagar",
+    "area": "Maninagar",
+    "cuisine": [
+      "Cafe",
+      "Mexican"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.3,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/6.jpg",
+    "tags": [
+      "coffee",
+      "pastries",
+      "sandwiches"
+    ],
+    "phone": "+91 9593534793",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_126",
+    "name": "Tandoori Nights",
+    "area": "Maninagar",
+    "cuisine": [
+      "Punjabi"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 4.3,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/1.jpg",
+    "tags": [
+      "lassi",
+      "tandoori",
+      "naan"
+    ],
+    "phone": "+91 9890140101",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_127",
+    "name": "Bean There Kankaria",
+    "area": "Kankaria",
+    "cuisine": [
+      "Cafe"
+    ],
+    "rating": 3.9,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.2,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/2.jpg",
+    "tags": [
+      "pastries",
+      "smoothies",
+      "sandwiches"
+    ],
+    "phone": "+91 7971648850",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_128",
+    "name": "Mozzarella Kankaria",
+    "area": "Kankaria",
+    "cuisine": [
+      "Pizza",
+      "Italian"
+    ],
+    "rating": 4.1,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 8.7,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/3.jpg",
+    "tags": [
+      "farmhouse",
+      "margherita",
+      "garlic bread"
+    ],
+    "phone": "+91 8313718980",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_129",
+    "name": "Idli Factory",
+    "area": "Kankaria",
+    "cuisine": [
+      "South Indian",
+      "Fast Food"
+    ],
+    "rating": 3.8,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 9.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/4.jpg",
+    "tags": [
+      "filter coffee",
+      "idli",
+      "sambhar"
+    ],
+    "phone": "+91 9389702282",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_130",
+    "name": "Taco Bell Express",
+    "area": "Kankaria",
+    "cuisine": [
+      "Mexican"
+    ],
+    "rating": 4.4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 13.7,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/5.jpg",
+    "tags": [
+      "nachos",
+      "tacos",
+      "quesadilla"
+    ],
+    "phone": "+91 9439995276",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_131",
+    "name": "Pizza Point",
+    "area": "Kankaria",
+    "cuisine": [
+      "Pizza",
+      "Chinese"
+    ],
+    "rating": 3.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8.5,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/6.jpg",
+    "tags": [
+      "farmhouse",
+      "margherita",
+      "pepperoni"
+    ],
+    "phone": "+91 9311985820",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_132",
+    "name": "The Grill Room",
+    "area": "Kankaria",
+    "cuisine": [
+      "Continental",
+      "Bakery"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 0.7,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/1.jpg",
+    "tags": [
+      "soups",
+      "steaks",
+      "grills"
+    ],
+    "phone": "+91 7869303792",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_133",
+    "name": "El Mexicano",
+    "area": "Kankaria",
+    "cuisine": [
+      "Mexican",
+      "Pizza"
+    ],
+    "rating": 4.6,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/2.jpg",
+    "tags": [
+      "nachos",
+      "tacos",
+      "quesadilla"
+    ],
+    "phone": "+91 7730459461",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_134",
+    "name": "Mocha Kankaria",
+    "area": "Kankaria",
+    "cuisine": [
+      "Cafe",
+      "Chinese"
+    ],
+    "rating": 3.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13.8,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/3.jpg",
+    "tags": [
+      "coffee",
+      "smoothies",
+      "sandwiches"
+    ],
+    "phone": "+91 8450850233",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_135",
+    "name": "Cheesy Crust Kankaria",
+    "area": "Kankaria",
+    "cuisine": [
+      "Pizza"
+    ],
+    "rating": 3.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 12,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/4.jpg",
+    "tags": [
+      "garlic bread",
+      "pepperoni",
+      "margherita"
+    ],
+    "phone": "+91 8079827464",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_136",
+    "name": "Orient Express Kankaria",
+    "area": "Kankaria",
+    "cuisine": [
+      "Chinese",
+      "Gujarati"
+    ],
+    "rating": 4.4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5.9,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/5.jpg",
+    "tags": [
+      "noodles",
+      "momos",
+      "manchurian"
+    ],
+    "phone": "+91 9973378312",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_137",
+    "name": "Pizza Hub",
+    "area": "Kankaria",
+    "cuisine": [
+      "Pizza",
+      "Italian"
+    ],
+    "rating": 4.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 13.5,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/6.jpg",
+    "tags": [
+      "margherita",
+      "garlic bread",
+      "farmhouse"
+    ],
+    "phone": "+91 7105441975",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_138",
+    "name": "Cafe Europa Bopal",
+    "area": "Bopal",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 8.7,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/1.jpg",
+    "tags": [
+      "salads",
+      "grills",
+      "soups"
+    ],
+    "phone": "+91 8527362759",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_139",
+    "name": "Honest Bopal",
+    "area": "Bopal",
+    "cuisine": [
+      "Gujarati"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 14.2,
+    "veg_nonveg": "both",
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/2.jpg",
+    "tags": [
+      "vegetarian",
+      "thali",
+      "traditional"
+    ],
+    "phone": "+91 8972001479",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_140",
+    "name": "Gola Soda Bopal",
+    "area": "Bopal",
+    "cuisine": [
+      "Street Food",
+      "Gujarati"
+    ],
+    "rating": 4.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.1,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/3.jpg",
+    "tags": [
+      "dabeli",
+      "vada pav",
+      "chaat"
+    ],
+    "phone": "+91 9235479556",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_141",
+    "name": "Basilico Bopal",
+    "area": "Bopal",
+    "cuisine": [
+      "Italian",
+      "Punjabi"
+    ],
+    "rating": 4.7,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 2.2,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/4.jpg",
+    "tags": [
+      "risotto",
+      "pizza",
+      "pasta"
+    ],
+    "phone": "+91 9977192281",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_142",
+    "name": "The Artisan Bopal",
+    "area": "Bopal",
+    "cuisine": [
+      "Cafe"
+    ],
+    "rating": 4.4,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 8.1,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/5.jpg",
+    "tags": [
+      "sandwiches",
+      "smoothies",
+      "pastries"
+    ],
+    "phone": "+91 9219993109",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_143",
+    "name": "Balle Balle Bopal",
+    "area": "Bopal",
+    "cuisine": [
+      "Punjabi"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 12.5,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/6.jpg",
+    "tags": [
+      "naan",
+      "lassi",
+      "butter chicken"
+    ],
+    "phone": "+91 8448965455",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_144",
+    "name": "The Lounge",
+    "area": "Bopal",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.1,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 10.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/1.jpg",
+    "tags": [
+      "steaks",
+      "grills",
+      "soups"
+    ],
+    "phone": "+91 9884520829",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_145",
+    "name": "Idli Factory Bopal",
+    "area": "Bopal",
+    "cuisine": [
+      "South Indian",
+      "Cafe"
+    ],
+    "rating": 4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 13.6,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/2.jpg",
+    "tags": [
+      "idli",
+      "dosa",
+      "filter coffee"
+    ],
+    "phone": "+91 7865242233",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_146",
+    "name": "Dosa House",
+    "area": "Bopal",
+    "cuisine": [
+      "South Indian"
+    ],
+    "rating": 4.3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 1.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "11:00",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/3.jpg",
+    "tags": [
+      "filter coffee",
+      "idli",
+      "sambhar"
+    ],
+    "phone": "+91 9431873671",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_147",
+    "name": "GrabNGo Bopal",
+    "area": "Bopal",
+    "cuisine": [
+      "Fast Food",
+      "Punjabi"
+    ],
+    "rating": 4.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 4.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/4.jpg",
+    "tags": [
+      "wraps",
+      "burgers",
+      "shakes"
+    ],
+    "phone": "+91 9925039432",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_148",
+    "name": "Sardar Ji",
+    "area": "Bopal",
+    "cuisine": [
+      "Punjabi",
+      "Italian"
+    ],
+    "rating": 4.3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 7.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/5.jpg",
+    "tags": [
+      "lassi",
+      "naan",
+      "tandoori"
+    ],
+    "phone": "+91 9528745641",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_149",
+    "name": "Biryani Blues South",
+    "area": "South Bopal",
+    "cuisine": [
+      "Mughlai",
+      "Chinese"
+    ],
+    "rating": 4.4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/6.jpg",
+    "tags": [
+      "korma",
+      "kebabs",
+      "biryani"
+    ],
+    "phone": "+91 8558367736",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_150",
+    "name": "Cafe Latte",
+    "area": "South Bopal",
+    "cuisine": [
+      "Cafe",
+      "Continental"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.9,
+    "veg_nonveg": "veg",
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/1.jpg",
+    "tags": [
+      "pastries",
+      "coffee",
+      "smoothies"
+    ],
+    "phone": "+91 7050445057",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_151",
+    "name": "Tea Post",
+    "area": "South Bopal",
+    "cuisine": [
+      "Cafe",
+      "Chinese"
+    ],
+    "rating": 4.4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 5.1,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/2.jpg",
+    "tags": [
+      "sandwiches",
+      "smoothies",
+      "coffee"
+    ],
+    "phone": "+91 9073795820",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_152",
+    "name": "Pizza Point South",
+    "area": "South Bopal",
+    "cuisine": [
+      "Pizza"
+    ],
+    "rating": 4.8,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 0.8,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/3.jpg",
+    "tags": [
+      "farmhouse",
+      "margherita",
+      "garlic bread"
+    ],
+    "phone": "+91 9004812538",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_153",
+    "name": "Trattoria",
+    "area": "South Bopal",
+    "cuisine": [
+      "Italian",
+      "Street Food"
+    ],
+    "rating": 3.1,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 11.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/4.jpg",
+    "tags": [
+      "pizza",
+      "bruschetta",
+      "risotto"
+    ],
+    "phone": "+91 8311547404",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_154",
+    "name": "Oven Story",
+    "area": "South Bopal",
+    "cuisine": [
+      "Pizza",
+      "Cafe"
+    ],
+    "rating": 3.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 3.2,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/5.jpg",
+    "tags": [
+      "garlic bread",
+      "farmhouse",
+      "pepperoni"
+    ],
+    "phone": "+91 8666090441",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_155",
+    "name": "Sher-e-Punjab",
+    "area": "South Bopal",
+    "cuisine": [
+      "Punjabi"
+    ],
+    "rating": 4.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 1.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/6.jpg",
+    "tags": [
+      "lassi",
+      "naan",
+      "tandoori"
+    ],
+    "phone": "+91 7829525931",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_156",
+    "name": "Sugar & Spice",
+    "area": "South Bopal",
+    "cuisine": [
+      "Bakery"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 11.1,
+    "veg_nonveg": "both",
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/bakery/1.jpg",
+    "tags": [
+      "bread",
+      "cookies",
+      "pastries"
+    ],
+    "phone": "+91 9752317080",
+    "short_description": "Freshly baked breads and decadent desserts daily"
+  },
+  {
+    "id": "rest_157",
+    "name": "Kulfi Center South",
+    "area": "South Bopal",
+    "cuisine": [
+      "Street Food",
+      "Rajasthani"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.3,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/2.jpg",
+    "tags": [
+      "chaat",
+      "pav bhaji",
+      "dabeli"
+    ],
+    "phone": "+91 9008243531",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_158",
+    "name": "Downtown South",
+    "area": "South Bopal",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.1,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 0.5,
+    "veg_nonveg": "nonveg",
+    "opening_time": "11:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/3.jpg",
+    "tags": [
+      "steaks",
+      "salads",
+      "soups"
+    ],
+    "phone": "+91 9165026389",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_159",
+    "name": "Olive Garden",
+    "area": "Ghuma",
+    "cuisine": [
+      "Italian",
+      "Bakery"
+    ],
+    "rating": 4.4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 3.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/4.jpg",
+    "tags": [
+      "risotto",
+      "pasta",
+      "bruschetta"
+    ],
+    "phone": "+91 7313214385",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_160",
+    "name": "Chaat Corner Ghuma",
+    "area": "Ghuma",
+    "cuisine": [
+      "Street Food"
+    ],
+    "rating": 4.6,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 6.6,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/5.jpg",
+    "tags": [
+      "chaat",
+      "vada pav",
+      "pav bhaji"
+    ],
+    "phone": "+91 7013264271",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_161",
+    "name": "CakeWalk",
+    "area": "Ghuma",
+    "cuisine": [
+      "Bakery",
+      "Mughlai"
+    ],
+    "rating": 3.8,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 4.1,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/bakery/6.jpg",
+    "tags": [
+      "bread",
+      "cakes",
+      "pastries"
+    ],
+    "phone": "+91 8668141724",
+    "short_description": "Freshly baked breads and decadent desserts daily"
+  },
+  {
+    "id": "rest_162",
+    "name": "Rajputana Ghuma",
+    "area": "Ghuma",
+    "cuisine": [
+      "Rajasthani"
+    ],
+    "rating": 4.5,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5.4,
+    "veg_nonveg": "veg",
+    "opening_time": "10:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/1.jpg",
+    "tags": [
+      "dal baati",
+      "ker sangri",
+      "churma"
+    ],
+    "phone": "+91 9568641038",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_163",
+    "name": "Cafe Latte Ghuma",
+    "area": "Ghuma",
+    "cuisine": [
+      "Cafe",
+      "Pizza"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/2.jpg",
+    "tags": [
+      "coffee",
+      "sandwiches",
+      "smoothies"
+    ],
+    "phone": "+91 7030724827",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_164",
+    "name": "Vaango Ghuma",
+    "area": "Ghuma",
+    "cuisine": [
+      "South Indian"
+    ],
+    "rating": 5,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 3.2,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/3.jpg",
+    "tags": [
+      "sambhar",
+      "filter coffee",
+      "idli"
+    ],
+    "phone": "+91 8954231952",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_165",
+    "name": "Tandoori Nights Ghuma",
+    "area": "Ghuma",
+    "cuisine": [
+      "Punjabi",
+      "Gujarati"
+    ],
+    "rating": 3.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 11.6,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/4.jpg",
+    "tags": [
+      "lassi",
+      "butter chicken",
+      "naan"
+    ],
+    "phone": "+91 8621542733",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_166",
+    "name": "Gordhan Thal",
+    "area": "Ghuma",
+    "cuisine": [
+      "Gujarati",
+      "Bakery"
+    ],
+    "rating": 4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 2.3,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/5.jpg",
+    "tags": [
+      "thali",
+      "traditional",
+      "vegetarian"
+    ],
+    "phone": "+91 7013821018",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_167",
+    "name": "Burrito Junction Ghuma",
+    "area": "Ghuma",
+    "cuisine": [
+      "Mexican",
+      "Fast Food"
+    ],
+    "rating": 3.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 14.1,
+    "veg_nonveg": "both",
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/6.jpg",
+    "tags": [
+      "tacos",
+      "nachos",
+      "burritos"
+    ],
+    "phone": "+91 8305299496",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_168",
+    "name": "Lazeez",
+    "area": "Ghuma",
+    "cuisine": [
+      "Punjabi"
+    ],
+    "rating": 3.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5.5,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/1.jpg",
+    "tags": [
+      "butter chicken",
+      "naan",
+      "tandoori"
+    ],
+    "phone": "+91 8499280346",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_169",
+    "name": "Vada Pav Junction Shilaj",
+    "area": "Shilaj",
+    "cuisine": [
+      "Street Food"
+    ],
+    "rating": 3.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.6,
+    "veg_nonveg": "veg",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/2.jpg",
+    "tags": [
+      "vada pav",
+      "chaat",
+      "pav bhaji"
+    ],
+    "phone": "+91 7026767220",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_170",
+    "name": "Dragon Wok",
+    "area": "Shilaj",
+    "cuisine": [
+      "Chinese",
+      "Seafood"
+    ],
+    "rating": 3.5,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 7.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/3.jpg",
+    "tags": [
+      "noodles",
+      "manchurian",
+      "momos"
+    ],
+    "phone": "+91 7329162827",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_171",
+    "name": "Neptune Shilaj",
+    "area": "Shilaj",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/4.jpg",
+    "tags": [
+      "surmai",
+      "crab",
+      "fish"
+    ],
+    "phone": "+91 7737697597",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_172",
+    "name": "FastTrack",
+    "area": "Shilaj",
+    "cuisine": [
+      "Fast Food"
+    ],
+    "rating": 3.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 14.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/5.jpg",
+    "tags": [
+      "burgers",
+      "shakes",
+      "wraps"
+    ],
+    "phone": "+91 8209024834",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_173",
+    "name": "FastTrack Shilaj",
+    "area": "Shilaj",
+    "cuisine": [
+      "Fast Food",
+      "Mexican"
+    ],
+    "rating": 3.7,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 8.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/6.jpg",
+    "tags": [
+      "shakes",
+      "wraps",
+      "fries"
+    ],
+    "phone": "+91 8922689622",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_174",
+    "name": "Fafda House",
+    "area": "Shilaj",
+    "cuisine": [
+      "Street Food",
+      "Cafe"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/1.jpg",
+    "tags": [
+      "pav bhaji",
+      "dabeli",
+      "vada pav"
+    ],
+    "phone": "+91 8998296525",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_175",
+    "name": "Catch of Day Shilaj",
+    "area": "Shilaj",
+    "cuisine": [
+      "Seafood",
+      "Mexican"
+    ],
+    "rating": 3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6.7,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/2.jpg",
+    "tags": [
+      "prawns",
+      "fish",
+      "crab"
+    ],
+    "phone": "+91 7241150318",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_176",
+    "name": "Downtown Shilaj",
+    "area": "Shilaj",
+    "cuisine": [
+      "Continental"
+    ],
+    "rating": 4.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 9.1,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/3.jpg",
+    "tags": [
+      "salads",
+      "grills",
+      "soups"
+    ],
+    "phone": "+91 7567750436",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_177",
+    "name": "Dosa House Shilaj",
+    "area": "Shilaj",
+    "cuisine": [
+      "South Indian",
+      "Mexican"
+    ],
+    "rating": 4.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 3.1,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/4.jpg",
+    "tags": [
+      "idli",
+      "filter coffee",
+      "sambhar"
+    ],
+    "phone": "+91 8442951696",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_178",
+    "name": "Kulfi Center Shilaj",
+    "area": "Shilaj",
+    "cuisine": [
+      "Street Food"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/5.jpg",
+    "tags": [
+      "chaat",
+      "vada pav",
+      "dabeli"
+    ],
+    "phone": "+91 8488643532",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_179",
+    "name": "Quick Bites Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Fast Food",
+      "Cafe"
+    ],
+    "rating": 4.8,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 6.4,
+    "veg_nonveg": "both",
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/6.jpg",
+    "tags": [
+      "shakes",
+      "fries",
+      "burgers"
+    ],
+    "phone": "+91 8840956887",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_180",
+    "name": "Fork & Knife Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Continental",
+      "Rajasthani"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 14.7,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/1.jpg",
+    "tags": [
+      "steaks",
+      "grills",
+      "salads"
+    ],
+    "phone": "+91 8748581793",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_181",
+    "name": "Orient Express Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Chinese",
+      "Mughlai"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13.5,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/2.jpg",
+    "tags": [
+      "fried rice",
+      "momos",
+      "manchurian"
+    ],
+    "phone": "+91 7175192314",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_182",
+    "name": "Oven Fresh Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Bakery"
+    ],
+    "rating": 3.4,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 7.8,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/bakery/3.jpg",
+    "tags": [
+      "cakes",
+      "bread",
+      "pastries"
+    ],
+    "phone": "+91 8089782115",
+    "short_description": "Freshly baked breads and decadent desserts daily"
+  },
+  {
+    "id": "rest_183",
+    "name": "Burger Lane Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Fast Food",
+      "Seafood"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/4.jpg",
+    "tags": [
+      "wraps",
+      "shakes",
+      "fries"
+    ],
+    "phone": "+91 7856354761",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_184",
+    "name": "Tea Post Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Cafe"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 6.2,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/5.jpg",
+    "tags": [
+      "pastries",
+      "smoothies",
+      "sandwiches"
+    ],
+    "phone": "+91 8197432898",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_185",
+    "name": "Bhajiya Gali Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Street Food"
+    ],
+    "rating": 3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 7.3,
+    "veg_nonveg": "veg",
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/6.jpg",
+    "tags": [
+      "chaat",
+      "pav bhaji",
+      "vada pav"
+    ],
+    "phone": "+91 9607218171",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_186",
+    "name": "Kamatchi Gota",
+    "area": "Gota",
+    "cuisine": [
+      "South Indian"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13.7,
+    "veg_nonveg": "veg",
+    "opening_time": "10:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/1.jpg",
+    "tags": [
+      "dosa",
+      "filter coffee",
+      "sambhar"
+    ],
+    "phone": "+91 7678723349",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_187",
+    "name": "Guacamole Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Mexican",
+      "Rajasthani"
+    ],
+    "rating": 4.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/2.jpg",
+    "tags": [
+      "burritos",
+      "tacos",
+      "nachos"
+    ],
+    "phone": "+91 9047190845",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_188",
+    "name": "Oven Story Gota",
+    "area": "Gota",
+    "cuisine": [
+      "Pizza",
+      "Mexican"
+    ],
+    "rating": 4.4,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 11.3,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/3.jpg",
+    "tags": [
+      "pepperoni",
+      "margherita",
+      "farmhouse"
+    ],
+    "phone": "+91 8129569139",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_189",
+    "name": "Dosa House Gota",
+    "area": "Gota",
+    "cuisine": [
+      "South Indian"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 1.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/4.jpg",
+    "tags": [
+      "filter coffee",
+      "sambhar",
+      "idli"
+    ],
+    "phone": "+91 9464644964",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_190",
+    "name": "Gola Soda Chandkheda",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Street Food",
+      "Seafood"
+    ],
+    "rating": 4.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.5,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/5.jpg",
+    "tags": [
+      "chaat",
+      "pav bhaji",
+      "dabeli"
+    ],
+    "phone": "+91 8681421747",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_191",
+    "name": "Speed Eats Chandkheda",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Fast Food",
+      "Pizza"
+    ],
+    "rating": 4.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 7.1,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/6.jpg",
+    "tags": [
+      "wraps",
+      "shakes",
+      "burgers"
+    ],
+    "phone": "+91 8301671344",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_192",
+    "name": "Gola Soda #192",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Street Food",
+      "Mughlai"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13.5,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/1.jpg",
+    "tags": [
+      "vada pav",
+      "dabeli",
+      "chaat"
+    ],
+    "phone": "+91 7464137149",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_193",
+    "name": "Balle Balle Chandkheda",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Punjabi",
+      "Rajasthani"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 0.8,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/2.jpg",
+    "tags": [
+      "butter chicken",
+      "naan",
+      "tandoori"
+    ],
+    "phone": "+91 9578236586",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_194",
+    "name": "Trattoria Chandkheda",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "rating": 3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 9.8,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/3.jpg",
+    "tags": [
+      "pizza",
+      "risotto",
+      "pasta"
+    ],
+    "phone": "+91 7188073531",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_195",
+    "name": "La Piazza",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Italian",
+      "Rajasthani"
+    ],
+    "rating": 4.1,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 2.1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/4.jpg",
+    "tags": [
+      "risotto",
+      "pizza",
+      "bruschetta"
+    ],
+    "phone": "+91 9798392324",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_196",
+    "name": "Bella Italia",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Italian",
+      "Fast Food"
+    ],
+    "rating": 3.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5.7,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/5.jpg",
+    "tags": [
+      "risotto",
+      "pizza",
+      "pasta"
+    ],
+    "phone": "+91 9012685843",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_197",
+    "name": "Darbar-e-Khas Chandkheda",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Mughlai"
+    ],
+    "rating": 4.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/6.jpg",
+    "tags": [
+      "kebabs",
+      "korma",
+      "nihari"
+    ],
+    "phone": "+91 8955470966",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_198",
+    "name": "Burger Lane Chandkheda",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Fast Food"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10.7,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/1.jpg",
+    "tags": [
+      "shakes",
+      "fries",
+      "wraps"
+    ],
+    "phone": "+91 8141700334",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_199",
+    "name": "The Grill Room Chandkheda",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Continental",
+      "Seafood"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 7.1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/2.jpg",
+    "tags": [
+      "grills",
+      "steaks",
+      "salads"
+    ],
+    "phone": "+91 7493015543",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_200",
+    "name": "Primavera Chandkheda",
+    "area": "Chandkheda",
+    "cuisine": [
+      "Italian",
+      "Mexican"
+    ],
+    "rating": 3.5,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/3.jpg",
+    "tags": [
+      "pasta",
+      "pizza",
+      "bruschetta"
+    ],
+    "phone": "+91 9161282212",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_201",
+    "name": "La Cantina",
+    "area": "Motera",
+    "cuisine": [
+      "Mexican",
+      "Continental"
+    ],
+    "rating": 3.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 7.7,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/4.jpg",
+    "tags": [
+      "tacos",
+      "burritos",
+      "quesadilla"
+    ],
+    "phone": "+91 8431172557",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_202",
+    "name": "Little Italy",
+    "area": "Motera",
+    "cuisine": [
+      "Italian"
+    ],
+    "rating": 3.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 12.8,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/5.jpg",
+    "tags": [
+      "pasta",
+      "pizza",
+      "bruschetta"
+    ],
+    "phone": "+91 7328189664",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_203",
+    "name": "Idli Factory Motera",
+    "area": "Motera",
+    "cuisine": [
+      "South Indian",
+      "Fast Food"
+    ],
+    "rating": 3.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 13,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/6.jpg",
+    "tags": [
+      "sambhar",
+      "idli",
+      "filter coffee"
+    ],
+    "phone": "+91 8535566577",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_204",
+    "name": "Jodhpuri",
+    "area": "Motera",
+    "cuisine": [
+      "Rajasthani",
+      "Gujarati"
+    ],
+    "rating": 4.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.4,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/1.jpg",
+    "tags": [
+      "dal baati",
+      "churma",
+      "ker sangri"
+    ],
+    "phone": "+91 8894193139",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_205",
+    "name": "El Mexicano Motera",
+    "area": "Motera",
+    "cuisine": [
+      "Mexican",
+      "Pizza"
+    ],
+    "rating": 4.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 1.8,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/2.jpg",
+    "tags": [
+      "tacos",
+      "burritos",
+      "nachos"
+    ],
+    "phone": "+91 9144678508",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_206",
+    "name": "Slice of Heaven",
+    "area": "Motera",
+    "cuisine": [
+      "Pizza"
+    ],
+    "rating": 4.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 11.3,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/3.jpg",
+    "tags": [
+      "margherita",
+      "farmhouse",
+      "pepperoni"
+    ],
+    "phone": "+91 9509663189",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_207",
+    "name": "Roma Cafe Motera",
+    "area": "Motera",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 14.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/4.jpg",
+    "tags": [
+      "pasta",
+      "bruschetta",
+      "risotto"
+    ],
+    "phone": "+91 9236610014",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_208",
+    "name": "The Patio",
+    "area": "Motera",
+    "cuisine": [
+      "Continental",
+      "Seafood"
+    ],
+    "rating": 3.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 4.2,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/continental/5.jpg",
+    "tags": [
+      "soups",
+      "steaks",
+      "salads"
+    ],
+    "phone": "+91 8668869642",
+    "short_description": "European-inspired continental dining experience"
+  },
+  {
+    "id": "rest_209",
+    "name": "Al-Bake",
+    "area": "Motera",
+    "cuisine": [
+      "Mughlai"
+    ],
+    "rating": 4.6,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 11,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/6.jpg",
+    "tags": [
+      "nihari",
+      "korma",
+      "biryani"
+    ],
+    "phone": "+91 7131424932",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_210",
+    "name": "Udupi Krishna",
+    "area": "Motera",
+    "cuisine": [
+      "South Indian",
+      "Rajasthani"
+    ],
+    "rating": 5,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 14.8,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/1.jpg",
+    "tags": [
+      "idli",
+      "sambhar",
+      "filter coffee"
+    ],
+    "phone": "+91 7798102698",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_211",
+    "name": "Ocean Pearl",
+    "area": "Motera",
+    "cuisine": [
+      "Seafood",
+      "Mughlai"
+    ],
+    "rating": 3.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 8.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/2.jpg",
+    "tags": [
+      "crab",
+      "prawns",
+      "fish"
+    ],
+    "phone": "+91 8652822955",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_212",
+    "name": "Bamboo Garden",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Chinese",
+      "Bakery"
+    ],
+    "rating": 4.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/3.jpg",
+    "tags": [
+      "noodles",
+      "manchurian",
+      "momos"
+    ],
+    "phone": "+91 8132569688",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_213",
+    "name": "Chaat Corner Sabarmati",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Street Food",
+      "Punjabi"
+    ],
+    "rating": 5,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/4.jpg",
+    "tags": [
+      "dabeli",
+      "chaat",
+      "vada pav"
+    ],
+    "phone": "+91 7603479714",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_214",
+    "name": "Crust Culture Sabarmati",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Pizza"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3.4,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/5.jpg",
+    "tags": [
+      "garlic bread",
+      "farmhouse",
+      "pepperoni"
+    ],
+    "phone": "+91 8665920955",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_215",
+    "name": "Darbar-e-Khas Sabarmati",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Mughlai",
+      "Punjabi"
+    ],
+    "rating": 4.5,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.1,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/6.jpg",
+    "tags": [
+      "kebabs",
+      "nihari",
+      "korma"
+    ],
+    "phone": "+91 8557664812",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_216",
+    "name": "Fiesta Sabarmati",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Mexican",
+      "Pizza"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 1.5,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mexican/1.jpg",
+    "tags": [
+      "quesadilla",
+      "nachos",
+      "burritos"
+    ],
+    "phone": "+91 7141795922",
+    "short_description": "Vibrant Mexican street food with bold spices"
+  },
+  {
+    "id": "rest_217",
+    "name": "Burger Lane Sabarmati",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Fast Food",
+      "Italian"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.8,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/2.jpg",
+    "tags": [
+      "shakes",
+      "fries",
+      "burgers"
+    ],
+    "phone": "+91 7103627350",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_218",
+    "name": "Bikaneri Sabarmati",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Rajasthani"
+    ],
+    "rating": 4.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5.8,
+    "veg_nonveg": "veg",
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/3.jpg",
+    "tags": [
+      "churma",
+      "gatte",
+      "ker sangri"
+    ],
+    "phone": "+91 8157723283",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_219",
+    "name": "Olive Garden Sabarmati",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Italian",
+      "Mexican"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/4.jpg",
+    "tags": [
+      "pizza",
+      "risotto",
+      "bruschetta"
+    ],
+    "phone": "+91 7353491712",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_220",
+    "name": "Govinda",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Gujarati",
+      "Bakery"
+    ],
+    "rating": 3.9,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 4.1,
+    "veg_nonveg": "veg",
+    "opening_time": "08:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/5.jpg",
+    "tags": [
+      "homestyle",
+      "vegetarian",
+      "traditional"
+    ],
+    "phone": "+91 9349744651",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_221",
+    "name": "Fish Curry Rice",
+    "area": "Sabarmati",
+    "cuisine": [
+      "Seafood",
+      "Chinese"
+    ],
+    "rating": 4.8,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 6.3,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/6.jpg",
+    "tags": [
+      "crab",
+      "prawns",
+      "surmai"
+    ],
+    "phone": "+91 9335613526",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_222",
+    "name": "Biryani Blues IIM",
+    "area": "IIM Road",
+    "cuisine": [
+      "Mughlai",
+      "Bakery"
+    ],
+    "rating": 4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5.1,
+    "veg_nonveg": "both",
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/1.jpg",
+    "tags": [
+      "korma",
+      "nihari",
+      "biryani"
+    ],
+    "phone": "+91 9203840719",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_223",
+    "name": "Woodfire Pizza IIM",
+    "area": "IIM Road",
+    "cuisine": [
+      "Pizza",
+      "Street Food"
+    ],
+    "rating": 4.3,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 1.8,
+    "veg_nonveg": "both",
+    "opening_time": "11:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/2.jpg",
+    "tags": [
+      "pepperoni",
+      "margherita",
+      "farmhouse"
+    ],
+    "phone": "+91 7546755886",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_224",
+    "name": "Brew & Co",
+    "area": "IIM Road",
+    "cuisine": [
+      "Cafe",
+      "Punjabi"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8.8,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/3.jpg",
+    "tags": [
+      "coffee",
+      "smoothies",
+      "sandwiches"
+    ],
+    "phone": "+91 9258889887",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_225",
+    "name": "Mughal Darbar IIM",
+    "area": "IIM Road",
+    "cuisine": [
+      "Mughlai"
+    ],
+    "rating": 4.4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2,
+    "veg_nonveg": "nonveg",
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/4.jpg",
+    "tags": [
+      "nihari",
+      "kebabs",
+      "biryani"
+    ],
+    "phone": "+91 9046291211",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_226",
+    "name": "Sand Dune",
+    "area": "IIM Road",
+    "cuisine": [
+      "Rajasthani",
+      "Street Food"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 3,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/5.jpg",
+    "tags": [
+      "gatte",
+      "ker sangri",
+      "churma"
+    ],
+    "phone": "+91 7507959952",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_227",
+    "name": "Kamatchi IIM",
+    "area": "IIM Road",
+    "cuisine": [
+      "South Indian"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 7.4,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/6.jpg",
+    "tags": [
+      "dosa",
+      "filter coffee",
+      "idli"
+    ],
+    "phone": "+91 9545105245",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_228",
+    "name": "Crispy Corner IIM",
+    "area": "IIM Road",
+    "cuisine": [
+      "Fast Food",
+      "Mexican"
+    ],
+    "rating": 3.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 6.7,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/1.jpg",
+    "tags": [
+      "fries",
+      "wraps",
+      "burgers"
+    ],
+    "phone": "+91 9876019367",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_229",
+    "name": "Yummy Bites",
+    "area": "IIM Road",
+    "cuisine": [
+      "Fast Food"
+    ],
+    "rating": 4.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 2.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/2.jpg",
+    "tags": [
+      "burgers",
+      "fries",
+      "wraps"
+    ],
+    "phone": "+91 7316143293",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_230",
+    "name": "Royal Kitchen",
+    "area": "IIM Road",
+    "cuisine": [
+      "Mughlai",
+      "Cafe"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 5.2,
+    "veg_nonveg": "both",
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/3.jpg",
+    "tags": [
+      "biryani",
+      "kebabs",
+      "nihari"
+    ],
+    "phone": "+91 9093255316",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_231",
+    "name": "Dough&Co IIM",
+    "area": "IIM Road",
+    "cuisine": [
+      "Pizza"
+    ],
+    "rating": 3.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 12,
+    "veg_nonveg": "veg",
+    "opening_time": "11:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/4.jpg",
+    "tags": [
+      "farmhouse",
+      "margherita",
+      "garlic bread"
+    ],
+    "phone": "+91 7721665713",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_232",
+    "name": "Coastal Bite IIM",
+    "area": "IIM Road",
+    "cuisine": [
+      "Seafood",
+      "Pizza"
+    ],
+    "rating": 4.3,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 5.5,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/5.jpg",
+    "tags": [
+      "fish",
+      "prawns",
+      "crab"
+    ],
+    "phone": "+91 7996920272",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_233",
+    "name": "La Piazza Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Italian",
+      "Punjabi"
+    ],
+    "rating": 3.8,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 0.7,
+    "veg_nonveg": "veg",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/6.jpg",
+    "tags": [
+      "bruschetta",
+      "pizza",
+      "pasta"
+    ],
+    "phone": "+91 8713956553",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_234",
+    "name": "Udupi Krishna Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "South Indian"
+    ],
+    "rating": 4.6,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 13.1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "22:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/south-indian/1.jpg",
+    "tags": [
+      "filter coffee",
+      "sambhar",
+      "dosa"
+    ],
+    "phone": "+91 7436034461",
+    "short_description": "Classic South Indian cuisine with crispy dosas and more"
+  },
+  {
+    "id": "rest_235",
+    "name": "Sea Shell Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Seafood",
+      "Bakery"
+    ],
+    "rating": 3.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.1,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/2.jpg",
+    "tags": [
+      "crab",
+      "fish",
+      "surmai"
+    ],
+    "phone": "+91 9265538371",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_236",
+    "name": "Szechwan House Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Chinese",
+      "Cafe"
+    ],
+    "rating": 3.2,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 3.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "11:00",
+    "closing_time": "21:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/chinese/3.jpg",
+    "tags": [
+      "noodles",
+      "momos",
+      "fried rice"
+    ],
+    "phone": "+91 7898930962",
+    "short_description": "Indo-Chinese fusion with bold wok-tossed flavors"
+  },
+  {
+    "id": "rest_237",
+    "name": "Darbar-e-Khas Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Mughlai",
+      "Seafood"
+    ],
+    "rating": 4.4,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 1.5,
+    "veg_nonveg": "both",
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/4.jpg",
+    "tags": [
+      "korma",
+      "nihari",
+      "kebabs"
+    ],
+    "phone": "+91 7712044004",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_238",
+    "name": "Honest Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Gujarati",
+      "Pizza"
+    ],
+    "rating": 4.2,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 12,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/5.jpg",
+    "tags": [
+      "traditional",
+      "vegetarian",
+      "thali"
+    ],
+    "phone": "+91 9457663654",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_239",
+    "name": "Biryani Blues Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Mughlai",
+      "Mexican"
+    ],
+    "rating": 3.8,
+    "price_range": "low",
+    "price_symbol": "₹",
+    "distance_km": 13.4,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/6.jpg",
+    "tags": [
+      "biryani",
+      "kebabs",
+      "nihari"
+    ],
+    "phone": "+91 9139297503",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_240",
+    "name": "Gola Soda Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Street Food"
+    ],
+    "rating": 3.7,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 14.5,
+    "veg_nonveg": "veg",
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/1.jpg",
+    "tags": [
+      "pav bhaji",
+      "dabeli",
+      "vada pav"
+    ],
+    "phone": "+91 7467203858",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_241",
+    "name": "Sardar Ji Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Punjabi",
+      "Gujarati"
+    ],
+    "rating": 3.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 13.7,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/punjabi/2.jpg",
+    "tags": [
+      "naan",
+      "tandoori",
+      "lassi"
+    ],
+    "phone": "+91 7622295703",
+    "short_description": "Rich Punjabi flavors with tandoori specialties"
+  },
+  {
+    "id": "rest_242",
+    "name": "Slice of Heaven Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Pizza",
+      "Rajasthani"
+    ],
+    "rating": 3.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 14.3,
+    "veg_nonveg": "nonveg",
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/pizza/3.jpg",
+    "tags": [
+      "garlic bread",
+      "margherita",
+      "farmhouse"
+    ],
+    "phone": "+91 7322047418",
+    "short_description": "Hand-tossed pizzas with premium toppings and cheese"
+  },
+  {
+    "id": "rest_243",
+    "name": "Burger Lane Jodhpur",
+    "area": "Jodhpur",
+    "cuisine": [
+      "Fast Food",
+      "Rajasthani"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5.3,
+    "veg_nonveg": "veg",
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/fast-food/4.jpg",
+    "tags": [
+      "shakes",
+      "fries",
+      "wraps"
+    ],
+    "phone": "+91 7858703730",
+    "short_description": "Quick bites and comfort food done right every time"
+  },
+  {
+    "id": "rest_244",
+    "name": "Coffee Culture",
+    "area": "Memnagar",
+    "cuisine": [
+      "Cafe",
+      "Pizza"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 1.1,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/5.jpg",
+    "tags": [
+      "smoothies",
+      "sandwiches",
+      "pastries"
+    ],
+    "phone": "+91 9840850093",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_245",
+    "name": "Pasta La Vista",
+    "area": "Memnagar",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "rating": 3.5,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 12.6,
+    "veg_nonveg": "nonveg",
+    "opening_time": "10:30",
+    "closing_time": "23:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/italian/6.jpg",
+    "tags": [
+      "risotto",
+      "pizza",
+      "bruschetta"
+    ],
+    "phone": "+91 9614885292",
+    "short_description": "Italian classics with fresh pasta and wood-fired pizza"
+  },
+  {
+    "id": "rest_246",
+    "name": "Sankalp Memnagar",
+    "area": "Memnagar",
+    "cuisine": [
+      "Gujarati",
+      "Cafe"
+    ],
+    "rating": 3.9,
+    "price_range": "high",
+    "price_symbol": "₹₹₹",
+    "distance_km": 3,
+    "veg_nonveg": "veg",
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/1.jpg",
+    "tags": [
+      "traditional",
+      "vegetarian",
+      "thali"
+    ],
+    "phone": "+91 8230521819",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_247",
+    "name": "Coastal Bite Memnagar",
+    "area": "Memnagar",
+    "cuisine": [
+      "Seafood"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 10.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/2.jpg",
+    "tags": [
+      "prawns",
+      "crab",
+      "surmai"
+    ],
+    "phone": "+91 8169599311",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  },
+  {
+    "id": "rest_248",
+    "name": "Rajputana Memnagar",
+    "area": "Memnagar",
+    "cuisine": [
+      "Rajasthani"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.4,
+    "veg_nonveg": "veg",
+    "opening_time": "09:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/3.jpg",
+    "tags": [
+      "churma",
+      "ker sangri",
+      "dal baati"
+    ],
+    "phone": "+91 9323517601",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_249",
+    "name": "Shreeji Tiffins Memnagar",
+    "area": "Memnagar",
+    "cuisine": [
+      "Gujarati"
+    ],
+    "rating": 3.7,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 1.6,
+    "veg_nonveg": "veg",
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/gujarati/4.jpg",
+    "tags": [
+      "thali",
+      "homestyle",
+      "traditional"
+    ],
+    "phone": "+91 8061988900",
+    "short_description": "Authentic Gujarati thali with homestyle flavors and love"
+  },
+  {
+    "id": "rest_250",
+    "name": "Kachori Wala",
+    "area": "Memnagar",
+    "cuisine": [
+      "Street Food"
+    ],
+    "rating": 3.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.2,
+    "veg_nonveg": "both",
+    "opening_time": "08:30",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/street-food/5.jpg",
+    "tags": [
+      "vada pav",
+      "pav bhaji",
+      "dabeli"
+    ],
+    "phone": "+91 9027025784",
+    "short_description": "Iconic Ahmedabad street food experience and flavors"
+  },
+  {
+    "id": "rest_251",
+    "name": "Nizam",
+    "area": "Memnagar",
+    "cuisine": [
+      "Mughlai"
+    ],
+    "rating": 4.6,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 8.8,
+    "veg_nonveg": "both",
+    "opening_time": "09:30",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/mughlai/6.jpg",
+    "tags": [
+      "biryani",
+      "kebabs",
+      "korma"
+    ],
+    "phone": "+91 9577223359",
+    "short_description": "Royal Mughlai cuisine with aromatic biryanis and kebabs"
+  },
+  {
+    "id": "rest_252",
+    "name": "Marwar Spice Memnagar",
+    "area": "Memnagar",
+    "cuisine": [
+      "Rajasthani",
+      "South Indian"
+    ],
+    "rating": 4.3,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 6.7,
+    "veg_nonveg": "veg",
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/rajasthani/1.jpg",
+    "tags": [
+      "churma",
+      "ker sangri",
+      "dal baati"
+    ],
+    "phone": "+91 8843637607",
+    "short_description": "Traditional Rajasthani cuisine with rustic flavors"
+  },
+  {
+    "id": "rest_253",
+    "name": "Urban Grind",
+    "area": "Memnagar",
+    "cuisine": [
+      "Cafe",
+      "Italian"
+    ],
+    "rating": 4.1,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 2.6,
+    "veg_nonveg": "both",
+    "opening_time": "10:30",
+    "closing_time": "21:00",
+    "serves_breakfast": false,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/cafe/2.jpg",
+    "tags": [
+      "sandwiches",
+      "smoothies",
+      "pastries"
+    ],
+    "phone": "+91 7561454356",
+    "short_description": "Artisanal coffee and fresh baked goods daily"
+  },
+  {
+    "id": "rest_254",
+    "name": "Catch of Day Memnagar",
+    "area": "Memnagar",
+    "cuisine": [
+      "Seafood",
+      "Fast Food"
+    ],
+    "rating": 4.2,
+    "price_range": "medium",
+    "price_symbol": "₹₹",
+    "distance_km": 5.9,
+    "veg_nonveg": "nonveg",
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "serves_breakfast": true,
+    "serves_lunch": true,
+    "serves_dinner": true,
+    "image_url": "/images/seafood/3.jpg",
+    "tags": [
+      "fish",
+      "crab",
+      "surmai"
+    ],
+    "phone": "+91 8326316021",
+    "short_description": "Fresh catches prepared with coastal seasonings"
+  }
+]
