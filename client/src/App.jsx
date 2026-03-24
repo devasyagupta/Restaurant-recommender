@@ -125,7 +125,7 @@ export default function App() {
       >
         <p>Ahmedabad Eats v1.0 · Final Year Project · Weighted Content-Based Filtering</p>
         <p className="mt-1" style={{ fontFamily: 'var(--font-mono)', fontSize: 'var(--text-xs)' }}>
-          250+ restaurants · 24 areas · 15 cuisines
+          400+ restaurants · 24 areas · 15 cuisines
         </p>
       </footer>
     </div>

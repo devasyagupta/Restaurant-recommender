@@ -1,6 +1,10 @@
 import fs from "fs"
 import path from "path"
-import { recommend } from "../server/algorithm/recommender.js"
+import { createRequire } from "module"
+
+// Use createRequire to load CommonJS modules from an ES module context
+const require = createRequire(import.meta.url)
+const { recommend } = require("../server/algorithm/recommender.js")
 
 export default function handler(req, res) {
 
@@ -31,15 +35,16 @@ export default function handler(req, res) {
     }
 
     const startTime = Date.now()
-
     const results = recommend(preferences, restaurants)
-
     const elapsed = Date.now() - startTime
 
     return res.status(200).json({
       results,
       meta: {
-        responseTime: elapsed
+        totalScored: restaurants.length,
+        timestamp: new Date().toISOString(),
+        responseTimeMs: elapsed,
+        preferences
       }
     })
 

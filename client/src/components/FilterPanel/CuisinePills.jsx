@@ -17,17 +17,23 @@ export default function CuisinePills({ selected, onChange, cuisines }) {
   };
 
   return (
-    <div className="grid grid-cols-2 xl:grid-cols-4 gap-2" id="cuisine-pills">
+    <div
+      className="grid gap-2"
+      style={{ gridTemplateColumns: 'repeat(3, 1fr)' }}
+      id="cuisine-pills"
+    >
       {cuisines.map(cuisine => {
         const isActive = selected.includes(cuisine);
         return (
           <motion.button
             key={cuisine}
             onClick={() => toggleCuisine(cuisine)}
-            className="px-3 py-2 rounded-full text-center transition-colors duration-200"
+            className="px-2 py-2 rounded-xl text-center transition-colors duration-200 w-full min-w-0"
             style={{
               fontFamily: 'var(--font-body)',
-              fontSize: 'var(--text-sm)',
+              fontSize: '11px',
+              lineHeight: 1.3,
+              wordBreak: 'break-word',
               background: isActive
                 ? 'linear-gradient(135deg, var(--chroma-1), var(--chroma-2))'
                 : 'var(--glass-bg)',

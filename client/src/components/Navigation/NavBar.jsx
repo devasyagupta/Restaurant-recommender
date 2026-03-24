@@ -29,7 +29,7 @@ export default function NavBar({ theme, onToggleTheme }) {
       <div className="flex items-center gap-3">
         <ThemeToggle theme={theme} onToggle={onToggleTheme} />
         <a
-          href="https://github.com"
+          href="https://github.com/devasyagupta/Restaurant-recommender"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center w-10 h-10 rounded-full transition-colors duration-200"
