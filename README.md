@@ -123,7 +123,7 @@ Open **http://localhost:5173** in your browser.
 
 7. **No External APIs**: The system is fully local — no Zomato/Swiggy/Google APIs. This ensures: zero rate limits, no API keys, no internet dependency during a viva demonstration, and full control over the data.
 
-8. **Dataset Design**: 250+ entries with realistic Ahmedabad names, distributed across 24 areas with controlled price/rating/diet distributions matching the city's demographics (high vegetarian proportion reflecting Jain/Gujarati culture).
+8. **Dataset Design**: 500+ entries with realistic Ahmedabad names, distributed across 24 areas with controlled price/rating/diet distributions matching the city's demographics (high vegetarian proportion reflecting Jain/Gujarati culture).
 
 9. **Scoring Formula**: `normalised_score = (Σ(weight_i × match_i) / Σ(weight_i)) × 100`. Each `match_i` ∈ [0, 1], so the final score ∈ [0, 100]. The formula is a weighted cosine-like similarity in a 6-dimensional preference space.
 
