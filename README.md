@@ -105,39 +105,6 @@ npm run dev:client
 
 Open **http://localhost:5173** in your browser.
 
----
-
-## 🎓 Viva Explanation Points
-
-1. **Algorithm Choice**: Content-based filtering was chosen because no user-item interaction matrix exists. Collaborative filtering requires historical user behaviour data, which is unavailable at launch — this is the classic cold-start problem.
-
-2. **Weight Rationale**: Weights were determined by reasoning about Ahmedabad dining behaviour, not ML. Cuisine (0.30) is highest because it's the most explicitly stated preference. Time (0.05) is lowest because most restaurants overlap with common meal times.
-
-3. **Cold Start Absence**: Content-based filtering avoids the cold start problem entirely — it needs only item features (restaurant attributes) and user preferences (filter inputs), both available from the first interaction.
-
-4. **Normalisation**: The final score divides by the sum of weights (`Σ(weight_i)`), ensuring the output is always in [0, 100] regardless of which filters are active or omitted.
-
-5. **AREA_ADJACENCY_MAP**: Built manually using geographic knowledge of Ahmedabad. Raw GPS coordinates wouldn't capture practical commute realities — two areas 3 km apart across the Sabarmati are less "adjacent" than two areas 4 km apart on the same road.
-
-6. **Cuisine Similarity**: CUISINE_SIMILARITY_MAP assigns 0.7 (not 1.0) for related cuisines. Example: Punjabi ↔ Mughlai share tandoori cooking but differ in flavour profiles. This avoids penalising users who'd be satisfied with a related cuisine.
-
-7. **No External APIs**: The system is fully local — no Zomato/Swiggy/Google APIs. This ensures: zero rate limits, no API keys, no internet dependency during a viva demonstration, and full control over the data.
-
-8. **Dataset Design**: 500+ entries with realistic Ahmedabad names, distributed across 24 areas with controlled price/rating/diet distributions matching the city's demographics (high vegetarian proportion reflecting Jain/Gujarati culture).
-
-9. **Scoring Formula**: `normalised_score = (Σ(weight_i × match_i) / Σ(weight_i)) × 100`. Each `match_i` ∈ [0, 1], so the final score ∈ [0, 100]. The formula is a weighted cosine-like similarity in a 6-dimensional preference space.
-
-10. **Extension Path — Collaborative Filtering**: Once user interaction data is collected (clicks, favourites, repeat visits), a user-item interaction matrix can be built. Then hybrid filtering (content-based + collaborative) can be implemented using matrix factorisation, improving recommendations through behavioural patterns.
-
----
-
-## 🔮 Future Improvements
-
-- **Collaborative Filtering** — Once user interaction history is collected, implement hybrid collaborative + content-based filtering for improved personalisation.
-- **Google Maps Integration** — Use the Google Maps Distance Matrix API for real distance calculations instead of the hand-built adjacency map.
-- **Live Restaurant Data** — Integrate Zomato/Swiggy APIs for real-time restaurant information, menus, and reviews.
-- **User Reviews & Ratings** — Allow users to submit their own ratings, building the feedback loop needed for collaborative filtering.
-- **Personalisation via Implicit Feedback** — Track user interactions (clicks, time spent, repeated searches) to learn implicit preferences and improve recommendations over time.
 
 ---
 
