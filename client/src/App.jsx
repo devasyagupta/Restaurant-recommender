@@ -34,7 +34,7 @@ export default function App() {
 
       <main
         id="main-content"
-        className="relative px-4 md:px-6 xl:px-8 py-8 max-w-[1600px] mx-auto"
+        className="relative px-4 md:px-6 lg:px-8 py-8 max-w-[1600px] mx-auto"
       >
         <div className="flex gap-8">
           {/* Filter Panel (sidebar on desktop) */}
@@ -70,7 +70,7 @@ export default function App() {
 
             {/* Loading State */}
             {loading && (
-              <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 {[1, 2, 3, 4, 5].map(i => (
                   <div key={i} className="glass-card overflow-hidden">
                     <div className="h-[180px] skeleton-shimmer" />
@@ -86,7 +86,7 @@ export default function App() {
 
             {/* Results Grid */}
             {!loading && results.length > 0 && (
-              <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 {results.map((restaurant, i) => (
                   <div key={restaurant.id}>
                     <RestaurantCard

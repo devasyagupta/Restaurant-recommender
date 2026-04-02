@@ -13,30 +13,30 @@
  */
 
 const AREA_ADJACENCY_MAP = {
-  'CG Road':       ['Navrangpura', 'Ellisbridge', 'Ambawadi', 'Paldi'],
-  'Navrangpura':   ['CG Road', 'Ellisbridge', 'Vastrapur', 'IIM Road'],
-  'Ellisbridge':   ['CG Road', 'Navrangpura', 'Paldi', 'Ambawadi'],
-  'Paldi':         ['Ellisbridge', 'CG Road', 'Ambawadi', 'Vasna'],
-  'Ambawadi':      ['CG Road', 'Paldi', 'Satellite', 'Navrangpura'],
-  'Satellite':     ['Vastrapur', 'Bodakdev', 'Ambawadi', 'Jodhpur'],
-  'Vastrapur':     ['Satellite', 'Bodakdev', 'Thaltej', 'Navrangpura'],
-  'Bodakdev':      ['Vastrapur', 'Satellite', 'Thaltej', 'SG Highway'],
-  'SG Highway':    ['Bodakdev', 'Thaltej', 'Prahlad Nagar', 'Satellite'],
-  'Thaltej':       ['Vastrapur', 'Bodakdev', 'SG Highway', 'Gota'],
+  'CG Road': ['Navrangpura', 'Ellisbridge', 'Ambawadi', 'Paldi'],
+  'Navrangpura': ['CG Road', 'Ellisbridge', 'Vastrapur', 'IIM Road'],
+  'Ellisbridge': ['CG Road', 'Navrangpura', 'Paldi', 'Ambawadi'],
+  'Paldi': ['Ellisbridge', 'CG Road', 'Ambawadi', 'Vasna'],
+  'Ambawadi': ['CG Road', 'Paldi', 'Satellite', 'Navrangpura'],
+  'Satellite': ['Vastrapur', 'Bodakdev', 'Ambawadi', 'Jodhpur'],
+  'Vastrapur': ['Satellite', 'Bodakdev', 'Thaltej', 'Navrangpura'],
+  'Bodakdev': ['Vastrapur', 'Satellite', 'Thaltej', 'SG Highway'],
+  'SG Highway': ['Bodakdev', 'Thaltej', 'Prahlad Nagar', 'Satellite'],
+  'Thaltej': ['Vastrapur', 'Bodakdev', 'SG Highway', 'Gota'],
   'Prahlad Nagar': ['SG Highway', 'Bodakdev', 'Satellite', 'South Bopal'],
-  'Maninagar':     ['Isanpur', 'Kankaria', 'Ghodasar'],
-  'Kankaria':      ['Maninagar', 'Ghodasar', 'Bapunagar'],
-  'Bopal':         ['Ghuma', 'South Bopal', 'Shilaj'],
-  'South Bopal':   ['Bopal', 'Ghuma', 'Prahlad Nagar'],
-  'Ghuma':         ['Bopal', 'South Bopal', 'Shilaj'],
-  'Shilaj':        ['Bopal', 'Ghuma', 'Vastrapur'],
-  'Gota':          ['Thaltej', 'Chandkheda', 'Motera'],
-  'Chandkheda':    ['Gota', 'Motera', 'New CG Road'],
-  'Motera':        ['Gota', 'Chandkheda', 'Sabarmati'],
-  'Sabarmati':     ['Motera', 'Chandkheda', 'Usmanpura'],
-  'IIM Road':      ['Navrangpura', 'Vastrapur', 'Bodakdev'],
-  'Jodhpur':       ['Satellite', 'Ambawadi', 'Vastrapur'],
-  'Memnagar':      ['Navrangpura', 'Vastrapur', 'IIM Road'],
+  'Maninagar': ['Isanpur', 'Kankaria', 'Ghodasar'],
+  'Kankaria': ['Maninagar', 'Ghodasar', 'Bapunagar'],
+  'Bopal': ['Ghuma', 'South Bopal', 'Shilaj'],
+  'South Bopal': ['Bopal', 'Ghuma', 'Prahlad Nagar'],
+  'Ghuma': ['Bopal', 'South Bopal', 'Shilaj'],
+  'Shilaj': ['Bopal', 'Ghuma', 'Vastrapur'],
+  'Gota': ['Thaltej', 'Chandkheda', 'Motera'],
+  'Chandkheda': ['Gota', 'Motera', 'New CG Road'],
+  'Motera': ['Gota', 'Chandkheda', 'Sabarmati'],
+  'Sabarmati': ['Motera', 'Chandkheda', 'Usmanpura'],
+  'IIM Road': ['Navrangpura', 'Vastrapur', 'Bodakdev'],
+  'Jodhpur': ['Satellite', 'Ambawadi', 'Vastrapur'],
+  'Memnagar': ['Navrangpura', 'Vastrapur', 'IIM Road'],
 };
 
 /**
@@ -45,11 +45,11 @@ const AREA_ADJACENCY_MAP = {
  * Two areas in the same zone receive a partial score of 0.3.
  */
 const ZONE_MAP = {
-  west:    ['CG Road', 'Navrangpura', 'Ellisbridge', 'Paldi', 'Ambawadi', 'Memnagar', 'IIM Road'],
+  west: ['CG Road', 'Navrangpura', 'Ellisbridge', 'Paldi', 'Ambawadi', 'Memnagar', 'IIM Road'],
   central: ['Satellite', 'Vastrapur', 'Bodakdev', 'Jodhpur', 'SG Highway'],
-  south:   ['Bopal', 'South Bopal', 'Ghuma', 'Shilaj', 'Prahlad Nagar'],
-  east:    ['Maninagar', 'Kankaria'],
-  north:   ['Gota', 'Chandkheda', 'Motera', 'Sabarmati', 'Thaltej'],
+  south: ['Bopal', 'South Bopal', 'Ghuma', 'Shilaj', 'Prahlad Nagar'],
+  east: ['Maninagar', 'Kankaria'],
+  north: ['Gota', 'Chandkheda', 'Motera', 'Sabarmati', 'Thaltej'],
 };
 
 // Build a reverse lookup: area → zone

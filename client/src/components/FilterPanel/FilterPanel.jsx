@@ -340,7 +340,7 @@ export default function FilterPanel({ onSubmit, loading }) {
     <>
       {/* Desktop Sidebar */}
       <aside
-        className="hidden xl:block w-[340px] 2xl:w-[380px] flex-shrink-0 sticky top-20 self-start max-h-[calc(100vh-96px)] overflow-y-auto glass-card p-6"
+        className="hidden lg:block w-[340px] 2xl:w-[380px] flex-shrink-0 sticky top-20 self-start max-h-[calc(100vh-96px)] overflow-y-auto glass-card p-6"
         id="filter-sidebar"
         style={{ scrollbarWidth: 'thin' }}
       >
@@ -348,7 +348,7 @@ export default function FilterPanel({ onSubmit, loading }) {
       </aside>
 
       {/* Tablet Button + Floating Panel */}
-      <div className="hidden md:block xl:hidden">
+      <div className="hidden md:block lg:hidden">
         <button
           onClick={() => setMobileOpen(true)}
           className="fixed bottom-6 right-6 z-40 flex items-center gap-2 px-5 py-3 rounded-full shadow-xl"
